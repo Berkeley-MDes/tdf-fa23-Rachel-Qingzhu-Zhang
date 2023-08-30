@@ -8,7 +8,7 @@ When I first launched Grasshopper and was confronted by its intricate, "spaghett
 ## Summary ##
 So here are the summary of how to learn new tools and kicking off a well-planned semester:
 
-1. Get the Big Picture: Before diving in, I like to get a bird's-eye view of the software. Knowing its purpose, understanding its basic interface, and grasping the rationale behind its design can demystify the whole process. This foundation helps me face the challenge with confidence. A bit of familiarity can help reduce the initial apprehension and face the challenge with confidence. 
+1. Get the Big Picture: Before diving in, I like to get a bird's-eye view of the software. Knowing its purpose, understanding its basic interface, and grasping the rationale behind its design can demystify the whole process.  A bit of familiarity can help reduce the initial apprehension and face the challenge with confidence. 
 
 2. Learn by Comparing: Relate new tools to ones you already know.  Drawing parallels between the new and the familiar can be super helpful. (Like understanding Rhino by comparing it to Blender.)
 
