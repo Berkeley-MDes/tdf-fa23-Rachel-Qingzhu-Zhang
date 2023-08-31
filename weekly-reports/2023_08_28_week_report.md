@@ -1,14 +1,19 @@
 ---
 # Report 1 - Week of 08/21/2023 #
 ### Rachel Qingzhu Zhang ###
-Taking the first step is always challenging, just like my academic journey at Berkeley and also, navigating software learning. I aspired to take a bold leap initially, but it proved more difficult than anticipated.
 
-When I first launched Grasshopper and was confronted by its intricate, "spaghetti"-like maps and countless parameters, I felt overwhelmed. The mere sight of the interface made me want to shut down my PC immediately. Yet, discovering tutorials on MDes’ GitHub repository gave a glimmer of hope. However, the sheer volume of tutorials — with each spanning nearly an hour — left me daunted and unsure of where to begin.
+## Summary ##
+This week I learned a lot from obstacles and failure.
+First, I cannot adjust the parameters of the holder. If I change the width of the phone into 90mm, the holder will turn red (which may means that the phone intersects with the holder in the sketch). 
+Second, the use of the laser cutting machine is kind of confusing, especially for transmitting the sketches. Then with the instruction of Sudhu, we learned that we have to take a little trial on our board, for preventing problems during the laser cutting process. (The boards are really expensive!) Thanks to Sudhu, I learned a lot of special tricks.
+
+I still have some questions about adjusting parameters and baking. Hope I can figure it out in Thursday’s class.
+
 
 ## Reflection ##
-Taking the first step is always challenging, just like my academic journey at Berkeley and also, navigating software learning. I aspired to take a bold leap initially, but it proved more difficult than anticipated.
+*Taking the first step is always challenging, just like my academic journey at Berkeley and also, navigating software learning. I aspired to take a bold leap initially, but it proved more difficult than anticipated.*
 
-When I first launched Grasshopper and was confronted by its intricate, "spaghetti"-like maps and countless parameters, I felt overwhelmed. The mere sight of the interface made me want to shut down my PC immediately. Yet, discovering tutorials on MDes’ GitHub repository gave a glimmer of hope. However, the sheer volume of tutorials — with each spanning nearly an hour — left me daunted and unsure of where to begin.
+*When I first launched Grasshopper and was confronted by its intricate, "spaghetti"-like maps and countless parameters, I felt overwhelmed. The mere sight of the interface made me want to shut down my PC immediately. Yet, discovering tutorials on MDes’ GitHub repository gave a glimmer of hope. However, the sheer volume of tutorials — with each spanning nearly an hour — left me daunted and unsure of where to begin.*
 
 So here is the reflection of how to learn new tools and kicking off a well-planned semester:
 
