@@ -1,6 +1,6 @@
 ---
 # Report 1 - Week of 08/21/2023 #
-###* Rachel Qingzhu Zhang *###
+*** Rachel Qingzhu Zhang ***
 
 ## Summary ##
 This week I learned a lot from obstacles and failure.
