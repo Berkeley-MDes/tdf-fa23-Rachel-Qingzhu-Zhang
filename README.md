@@ -37,7 +37,7 @@ So here is the reflection of how to learn new tools and kicking off a well-plann
 
 
 ## Speculation ##
-I think the phone case could be improved in several ways for better practicability:
+I think the phone holder could be improved in several ways for better practicability:
 
 1) When you're trying to put your phone in the case, you have to be really careful. If the case is made of a tough material, there's a chance that the phone screen might get scratched if you don't place it just right.
 
