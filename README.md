@@ -39,7 +39,7 @@ So here is the reflection of how to learn new tools and kicking off a well-plann
 ## Speculation ##
 I think the phone holder could be improved in several ways for better practicability:
 
-1) When you're trying to put your phone in the case, you have to be really careful. If the case is made of a tough material, there's a chance that the phone screen might get scratched if you don't place it just right.
+1) When you're trying to put your phone in the slot, you have to be really careful. If the case is made of a tough material, there's a chance that the phone screen might get scratched if you don't place it just right.
 
 2) There's a problem with the parts of the case that hold the phone. They cover up some parts of the screen. This means when you're trying to record something, you can't see everything clearly because a part of the screen is hidden, so as to watch a video (therefore the using scenarios are very limited).
 
