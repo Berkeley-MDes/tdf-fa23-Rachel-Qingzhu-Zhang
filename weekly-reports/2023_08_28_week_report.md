@@ -6,9 +6,12 @@
 This week I learned a lot from obstacles and failure.
 
 First, I cannot adjust the parameters of the holder. If I change the width of the phone into 90mm, the holder will turn red (which may means that the phone intersects with the holder in the sketch). 
-<img width="200" alt="Screenshot%202023-08-30%20at%2016.14.28" src="[https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c](https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/Screenshot%202023-08-30%20at%2016.14.28.png)">
+
+<img width="400" alt="Screenshot%202023-08-30%20at%2016.14.28" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/Screenshot%202023-08-30%20at%2016.14.28.png">
 
 Second, the use of the laser cutting machine is kind of confusing, especially for transmitting the sketches. Then with the instruction of Sudhu, we learned that we have to take a little trial on our board, for preventing problems during the laser cutting process. (The boards are really expensive!) Thanks to Sudhu, I learned a lot of special tricks.
+
+<img width="400" alt="WechatIMG929.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG929.jpg">
 
 I still have some questions about adjusting parameters and baking. Hope I can figure it out in Thursday’s class.
 
@@ -38,10 +41,15 @@ I think the phone case could be improved in several ways for better practicabili
 
 2) There's a problem with the parts of the case that hold the phone. They cover up some parts of the screen. This means when you're trying to record something, you can't see everything clearly because a part of the screen is hidden, so as to watch a video (therefore the using scenarios are very limited).
 
-3) The phone holder seems tailored for a specific user and perhaps a particular table. The big issue here is that you can't change the angle of the phone once it's in the holder. This isn't very convenient if you want to adjust the phone's position to get a better view.
+*like this* 
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
+<img width="400" alt="WechatIMG927.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG927.jpg">
 
-If you use this format, you might want to link back to the main [README.md](../README.md) like so!
 
----
+
+4) The phone holder seems tailored for a specific user and perhaps a particular table. The big issue here is that you can't change the angle of the phone once it's in the holder. This isn't very convenient if you want to adjust the phone's position to get a better view.
+
+*this is my phone stand which can adjust the angles for the view* 
+
+<img width="300" alt="WechatIMG928.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG928.jpg">
+
