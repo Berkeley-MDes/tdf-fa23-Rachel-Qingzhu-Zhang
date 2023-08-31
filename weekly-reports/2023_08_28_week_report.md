@@ -13,6 +13,8 @@ Second, the use of the laser cutting machine is kind of confusing, especially fo
 
 <img width="400" alt="WechatIMG929.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG929.jpg">
 
+<img width="400" alt="cutting.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/cutting.png">
+
 I still have some questions about adjusting parameters and baking. Hope I can figure it out in Thursday’s class.
 
 
