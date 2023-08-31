@@ -6,6 +6,7 @@
 This week I learned a lot from obstacles and failure.
 
 First, I cannot adjust the parameters of the holder. If I change the width of the phone into 90mm, the holder will turn red (which may means that the phone intersects with the holder in the sketch). 
+<img width="200" alt="Screenshot%202023-08-30%20at%2016.14.28" src="[https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c](https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/Screenshot%202023-08-30%20at%2016.14.28.png)">
 
 Second, the use of the laser cutting machine is kind of confusing, especially for transmitting the sketches. Then with the instruction of Sudhu, we learned that we have to take a little trial on our board, for preventing problems during the laser cutting process. (The boards are really expensive!) Thanks to Sudhu, I learned a lot of special tricks.
 
