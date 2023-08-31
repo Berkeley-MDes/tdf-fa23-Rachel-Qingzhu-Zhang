@@ -24,12 +24,13 @@ So here is the reflection of how to learn new tools and kicking off a well-plann
 
 
 ## Speculation ##
-1.The phone case could be improved in several ways. 
-1)When you're trying to put your phone in the case, you have to be really careful. If the case is made of a tough material, there's a chance that the phone screen might get scratched if you don't place it just right.
+1. The phone case could be improved in several ways. 
 
-2)There's a problem with the parts of the case that hold the phone. They cover up some parts of the screen. This means when you're trying to record something, you can't see everything clearly because a part of the screen is hidden, so as to watch a video (therefore the using scenarios are very limited).
+1) When you're trying to put your phone in the case, you have to be really careful. If the case is made of a tough material, there's a chance that the phone screen might get scratched if you don't place it just right.
 
-3)The phone holder seems tailored for a specific user and perhaps a particular table. The big issue here is that you can't change the angle of the phone once it's in the holder. This isn't very convenient if you want to adjust the phone's position to get a better view.
+2) There's a problem with the parts of the case that hold the phone. They cover up some parts of the screen. This means when you're trying to record something, you can't see everything clearly because a part of the screen is hidden, so as to watch a video (therefore the using scenarios are very limited).
+
+3) The phone holder seems tailored for a specific user and perhaps a particular table. The big issue here is that you can't change the angle of the phone once it's in the holder. This isn't very convenient if you want to adjust the phone's position to get a better view.
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
 
