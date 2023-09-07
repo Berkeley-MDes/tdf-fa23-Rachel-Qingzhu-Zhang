@@ -16,7 +16,8 @@ I still have some questions about adjusting parameters and baking. Hope I can fi
 
 ## Reflection ##
 
-I endeavored to grasp the essence of computational design: its primary objectives, underlying principles, and the requisite skills one needs to launch a successful computational design product. While I realized that there's a vast array of knowledge yet to be uncovered, I am confident that I've found a solid starting point. And here are the brief summary of computational design
+I endeavored to grasp the essence of computational design: its primary objectives, underlying principles, and the requisite skills one needs to launch a successful computational design product. While I realized that there's a vast array of knowledge yet to be uncovered, I am confident that I've found a solid starting point. And here are the brief summary of computational design:
+
 
   **Algorithmic Thinking**: Designers use algorithms or rules to generate or modify designs, rather than crafting each element manually.
 
@@ -33,6 +34,10 @@ I endeavored to grasp the essence of computational design: its primary objective
   **Machine Learning and AI**: Advanced techniques predict behaviors, optimize outputs, or create new design solutions.
 
   **Digital Fabrication**: Methods like 3D printing and CNC milling translate computational designs directly into physical forms
+
+
+
+  **Seeking Inspiration**: I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent a considerable amount of time watching related videos on YouTube.
 
   **Hands-On Experience:**
   Furthermore, I gained hands-on experience by delving into Learning Rhino & Grasshopper, again with the aid of TJ’s invaluable tutorials.
