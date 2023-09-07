@@ -37,7 +37,8 @@ I endeavored to grasp the essence of computational design: its primary objective
 
 
 
-  **Seeking Inspiration**: I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent a considerable amount of time watching related videos on YouTube.
+  **Seeking Inspiration:**
+  I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent a considerable amount of time watching related videos on YouTube.
 
   **Hands-On Experience:**
   Furthermore, I gained hands-on experience by delving into Learning Rhino & Grasshopper, again with the aid of TJ’s invaluable tutorials.
