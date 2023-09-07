@@ -1,5 +1,5 @@
 ---
-# Report 2 - Week of 08/28/2023-09/07/2023 #
+# Report 2 - Week of 08/31/2023-09/07/2023 #
 ### *Rachel Qingzhu Zhang* ###
 
 ## Summary ##
@@ -29,7 +29,7 @@ I endeavored to grasp the essence of computational design: its primary objective
 
   **Seeking Inspiration:**
   I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent a considerable amount of time watching related videos on YouTube.
-  <img width="400" alt="Screenshot%202023-08-30%20at%2016.14.28" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/Screenshot%202023-08-30%20at%2016.14.28.png">
+  <img width="400" alt="behance" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/behance.png">
 
 
 <img width="400" alt="WechatIMG929.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG929.jpg">
