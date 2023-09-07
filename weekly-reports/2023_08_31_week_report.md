@@ -4,15 +4,6 @@
 
 ## Summary ##
 This week included a holiday break, which meant that our regular TDF class on Monday was off. So during the long weekend, I took the initiative to brush up and expand upon what we'd learned in our previous session. I did this by watching TJ’s tutorials and by seeking additional references and materials on computational design.
-<img width="400" alt="Screenshot%202023-08-30%20at%2016.14.28" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/Screenshot%202023-08-30%20at%2016.14.28.png">
-
-
-<img width="400" alt="WechatIMG929.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG929.jpg">
-
-<img width="400" alt="cutting.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/cutting.png">
-
-I still have some questions about adjusting parameters and baking. Hope I can figure it out in Thursday’s class.
-
 
 ## Reflection ##
 
@@ -36,9 +27,14 @@ I endeavored to grasp the essence of computational design: its primary objective
   **Digital Fabrication**: Methods like 3D printing and CNC milling translate computational designs directly into physical forms
 
 
-
   **Seeking Inspiration:**
   I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent a considerable amount of time watching related videos on YouTube.
+  <img width="400" alt="Screenshot%202023-08-30%20at%2016.14.28" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/Screenshot%202023-08-30%20at%2016.14.28.png">
+
+
+<img width="400" alt="WechatIMG929.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG929.jpg">
+
+<img width="400" alt="cutting.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/cutting.png">
 
   **Hands-On Experience:**
   Furthermore, I gained hands-on experience by delving into Learning Rhino & Grasshopper, again with the aid of TJ’s invaluable tutorials.
