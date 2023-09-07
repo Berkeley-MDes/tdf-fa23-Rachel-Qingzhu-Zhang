@@ -29,15 +29,17 @@ I endeavored to grasp the essence of computational design: its primary objective
 
   **Seeking Inspiration:**
   I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent a considerable amount of time watching related videos on YouTube.
+  
   <img width="400" alt="behance" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/behance.png">
-
-
-<img width="400" alt="WechatIMG929.jpg" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/WechatIMG929.jpg">
-
-<img width="400" alt="cutting.png" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/cutting.png">
 
   **Hands-On Experience:**
   Furthermore, I gained hands-on experience by delving into Learning Rhino & Grasshopper, again with the aid of TJ’s invaluable tutorials.
+
+  
+<img width="400" alt="grasshopper" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/grasshopper.png">
+
+<img width="400" alt="grasshopper1" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/grasshopper1.png">
+
 
 ## Speculation ##
 The realm of computational design is truly fascinating. Its complexity and depth surpass anything I've encountered in my academic journey thus far. As I chart my path forward, my ultimate aspiration is to immerse myself in the intricate world of Rhino, Grasshopper, Cloud Compute, Machine Learning, and Artificial Intelligence.
