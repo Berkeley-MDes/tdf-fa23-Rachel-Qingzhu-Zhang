@@ -30,9 +30,9 @@ I endeavored to grasp the essence of computational design: its primary objective
   **Seeking Inspiration:**
   I've embarked on the quest to find inspiration for the first project's topic. My exploration led me to dive into creative portfolios on Behance, and I spent some time watching related videos on YouTube, and also the Design in Tech Report from 2017 shared in MDes wiki.
   
-  <img width="1000" alt="behance" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/behance.png">
+  <img width="900" alt="behance" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/behance.png">
 
-  <img width="700" alt="computation" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/computation.png">
+  <img width="680" alt="computation" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/computation.png">
   
   **Hands-On Experience:**
   Furthermore, I gained hands-on experience by delving into Learning Rhino & Grasshopper, again with the aid of TJ’s invaluable tutorials.
