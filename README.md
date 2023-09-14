@@ -30,6 +30,7 @@ It's not just functional – it's also engaging!  I love cats, (who doesn’t?) 
 
 ## Reflection ##
 For challenge, I think there are two major challenging things:
+
 First, Conceptualizing ways to enhance the stand was tricky. 
 I recognized the limitations of not being able to charge the phone or place it horizontally, but I believe there's still room for added features. (I’m eager for suggestions!)
 
