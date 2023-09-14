@@ -2,7 +2,8 @@
 # Report 3 - Week of 09/08/2023-09/14/2023 #
 ### *Rachel Qingzhu Zhang* ###
 
-* this is my video link: https://youtu.be/aAXmthdqNFg *
+* this is my video link: https://youtu.be/aAXmthdqNFg
+
 ## Summary ##
 This week I did my project 1: my cellphone stand redesign. I started by examining the original cellphone stand, and after some time, I pinpointed two primary issues:
 
@@ -51,7 +52,7 @@ Features such as ambient light sensing could be added. Maybe even simple break r
 These additions would transform a basic stand into a multifunctional tool, bridging the gap between simplicity and innovation.
 
 
-Given that this was my first time using Rhino+Grasshopper for design, I've had a steep learning curve. I delved deep into tutorials, hands-on exercises, and note-taking. If I were to rate my level, I'd say I'm at a 2-3
+Given that this was my first time using Rhino+Grasshopper for design, I've had a steep learning curve. I delved deep into tutorials, hands-on exercises, and note-taking. If I were to rate my level, I'd say I'm at a 2 (the Platypus).
 
 <img width="780" alt="9.14-h" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-h.png">
 
