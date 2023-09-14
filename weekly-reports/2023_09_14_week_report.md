@@ -31,6 +31,7 @@ Second, From a design standpoint, integrating the modifications was a challenge.
 I heavily utilized Boolean set operations such as union, intersection, and difference sets. 
 
 <img width="700" alt="9.14-f" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
+
 Especially when working on the battery connections, the geometric logic could get perplexing, mainly because Grasshopper has numerous connection lines which can be overwhelming.
 
 <img width="700" alt="9.14-e" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
