@@ -1,5 +1,5 @@
 
-## week (9/08-9/14) Rachel Qingzhu Zhang 
+## week (9/08-9/14) Rachel Qingzhu Zhang ##
 
 ## Summary ##
 This week I did my project 1: my cellphone stand redesign. I started by examining the original cellphone stand, and after some time, I pinpointed two primary issues:
