@@ -10,7 +10,7 @@ This week I did my project 1: my cellphone stand redesign. I started by examinin
 2）It lacked a dedicated charging slot.
 
 
-<img width="700" alt="9.14-a" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-a.png">
+<img width="800" alt="9.14-a" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-a.png">
 
 So, what did I do? 
 
@@ -21,10 +21,10 @@ So, what did I do?
 3）And for a fun twist, I gave the stand some character by adding cute ears and a tail, making it a lovely shape of a cat. 
 It's not just functional – it's also engaging!  I love cats, (who doesn’t?) 🐱
 
-<img width="700" alt="9.14-b" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-b.png">
-<img width="700" alt="9.14-c" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-c.png">
-<img width="700" alt="9.14-d" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-d.png">
-<img width="700" alt="9.14-i" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-i.png">
+<img width="800" alt="9.14-b" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-b.png">
+<img width="800" alt="9.14-c" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-c.png">
+<img width="800" alt="9.14-d" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-d.png">
+<img width="800" alt="9.14-i" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-i.png">
 
 ## Reflection ##
 For challenge, I think there are two major challenging things:
@@ -35,11 +35,11 @@ I recognized the limitations of not being able to charge the phone or place it h
 Second, From a design standpoint, integrating the modifications was a challenge. 
 I heavily utilized Boolean set operations such as union, intersection, and difference sets. 
 
-<img width="700" alt="9.14-f" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
+<img width="800" alt="9.14-f" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
 
 Especially when working on the battery connections, the geometric logic could get perplexing, mainly because Grasshopper has numerous connection lines which can be overwhelming.
 
-<img width="700" alt="9.14-e" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
+<img width="800" alt="9.14-e" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
 
 ## Speculation ##
 For speculation, I envision some fascinating enhancements. 
@@ -52,7 +52,7 @@ These additions would transform a basic stand into a multifunctional tool, bridg
 
 Given that this was my first time using Rhino+Grasshopper for design, I've had a steep learning curve. I delved deep into tutorials, hands-on exercises, and note-taking. If I were to rate my level, I'd say I'm at a 2-3
 
-<img width="700" alt="9.14-h" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-h.png">
+<img width="800" alt="9.14-h" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-h.png">
 
 ---
 # Report 2 - Week of 08/31/2023-09/07/2023 #
