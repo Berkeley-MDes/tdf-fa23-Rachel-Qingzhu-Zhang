@@ -4,16 +4,22 @@
 
 ## Summary ##
 This week I did my project 1: my cellphone stand redesign. I started by examining the original cellphone stand, and after some time, I pinpointed two primary issues:
+
 1）It didn’t allow for horizontal placement of the phone. 
+
 2）It lacked a dedicated charging slot.
 
 
 <img width="700" alt="9.14-a" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-a.png">
 
 So, what did I do? 
+
 1）To address the first issue, I modified the stand to allow horizontal phone placement. 
+
 2）For the second, I created a slot at the base and front, ensuring ease of charging. 
+
 3）And for a fun twist, I gave the stand some character by adding cute ears and a tail, making it a lovely shape of a cat. 
+
 It's not just functional – it's also engaging!  I love cats, (who doesn’t?) 🐱
 
 <img width="700" alt="9.14-b" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-b.png">
