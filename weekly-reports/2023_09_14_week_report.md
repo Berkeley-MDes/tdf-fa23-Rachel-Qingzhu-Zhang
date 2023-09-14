@@ -1,3 +1,6 @@
+
+## Rachel Qingzhu Zhang##
+
 ## Summary ##
 This week I did my project 1: my cellphone stand redesign. I started by examining the original cellphone stand, and after some time, I pinpointed two primary issues:
 First, It didn’t allow for horizontal placement of the phone. 
