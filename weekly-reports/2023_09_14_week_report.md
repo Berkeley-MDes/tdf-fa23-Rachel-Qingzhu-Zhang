@@ -1,4 +1,4 @@
-
+## Summary ##
 This week I did my project 1: my cellphone stand redesign. I started by examining the original cellphone stand, and after some time, I pinpointed two primary issues:
 First, It didn’t allow for horizontal placement of the phone. 
 Second, It lacked a dedicated charging slot.
@@ -15,7 +15,7 @@ It's not just functional – it's also engaging!  I love cats, (who doesn’t?)
 <img width="700" alt="9.14-c" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-c.png">
 <img width="700" alt="9.14-d" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-d.png">
 
-
+## Reflection ##
 For challenge, I think there are two major challenging things:
 First, Conceptualizing ways to enhance the stand was tricky. 
 I recognized the limitations of not being able to charge the phone or place it horizontally, but I believe there's still room for added features. (I’m eager for suggestions!)
@@ -28,7 +28,7 @@ Especially when working on the battery connections, the geometric logic could ge
 <img width="700" alt="9.14-e" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
 <img width="700" alt="9.14-f" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-e.png">
 
-*Speculation*
+## Speculation ##
 For speculation, I envision some fascinating enhancements. 
 Imagine integrating smart sensors that adjust the phone's angle based on the user's posture. 
 This isn't just a convenience; it's the future of personalized ergonomics.
