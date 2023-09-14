@@ -13,7 +13,7 @@ Second, It lacked a dedicated charging slot.
 So, what did I do? To address the first issue, I modified the stand to allow horizontal phone placement. 
 For the second, I created a slot at the base and front, ensuring ease of charging. 
 And for a fun twist, I gave the stand some character by adding cute ears and a tail, making it a lovely shape of a cat. 
-It's not just functional – it's also engaging!  I love cats, (who doesn’t?)
+It's not just functional – it's also engaging!  I love cats, (who doesn’t?) 🐱
 
 <img width="700" alt="9.14-b" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-b.png">
 <img width="700" alt="9.14-c" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-c.png">
