@@ -41,4 +41,3 @@ I really appreciate and cherish the feedback from my cohorts, and it is my pleas
 It really facilitate me in having a deeper understanding in computational design and also presentation skills.
 
 
-<img width="780" alt="9.14-h" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-h.png">
