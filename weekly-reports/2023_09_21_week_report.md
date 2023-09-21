@@ -3,7 +3,7 @@
 ### *Rachel Qingzhu Zhang* ###
 
 * this is my video link: https://youtu.be/aAXmthdqNFg
-
+  
 ## Summary ##
 This week I improved my cellphone stand redesign (with the help of the feedback from my cohorts).
 
