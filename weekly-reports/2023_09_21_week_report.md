@@ -3,7 +3,7 @@
 ### *Rachel Qingzhu Zhang* ###
 
 * this is my video link: https://youtu.be/aAXmthdqNFg
-* 
+
 ## Summary ##
 This week I improved my cellphone stand redesign (with the help of the feedback from my cohorts).
 
@@ -14,12 +14,14 @@ The first 3D printing result is not satisfying because I chose the configuration
 
 <img width="700" alt="3" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/3.png">
 
-<img width="700" alt="5" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/5.png">
+<img width="700" alt="7" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/7.png">
 
 (2)The second result:
 So I changed the size parameters in Grasshopper for better fitting the phone, and re-print my project in a finest configuration. The result looks nice and cute!
 
 <img width="700" alt="4" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/4.png">
+
+<img width="700" alt="5" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/5.png">
 
 <img width="700" alt="6" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/6.png">
 
@@ -38,8 +40,5 @@ This project has been an enlightening experience, from pinpointing design challe
 I really appreciate and cherish the feedback from my cohorts, and it is my pleasure that my project to be liked by most of them. (I am thinking to produce copies for presents to them!)
 It really facilitate me in having a deeper understanding in computational design and also presentation skills.
 
-
-
-Given that this was my first time using Rhino+Grasshopper for design, I've had a steep learning curve. I delved deep into tutorials, hands-on exercises, and note-taking. If I were to rate my level,  I'd say I'm at a 2 (the Platypus)
 
 <img width="780" alt="9.14-h" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/9.14-h.png">
