@@ -1,6 +1,9 @@
 # Report 5 - Week of 09/21/2023-09/28/2023 #
 ### *Rachel Qingzhu Zhang* ###
 
+## Summary 
+
+my week was largely dedicated to setting up and exploring Proton2. I anticipate that my familiarity with Arduino will be an asset as I dive deeper, even as I navigate the unique aspects of the Proton platform.
 
 This week, I worked through Sudhu's tutorial and successfully set up the hardwire device, Proton2. In exploring its functionalities, I discovered several interesting features and capabilities of the device. The toolkit accompanying Proton2 is comprehensive, with a wide array of components and gadgets that I am eager to delve into further.
 
@@ -16,18 +19,17 @@ With my background in Arduino, both in project creation and instruction, much of
 
 For the first part, is the wifi configuration. I never came across this procedure in Arduino, so I am curious that, what does the MAC Address actually do and why we have to configure the wifi. Then I found its purpose:
   
-  Enables internet-based functions, software updates, remote access, and integration with other devices.
-and the role of the MAC Address are:
+> Enables internet-based functions, software updates, remote access, and integration with other devices.
   
-  Identification: Acts as a unique identifier for the device on networks.
+  and the role of the MAC Address are:
   
-  Security: Used in MAC filtering for network access control.
-  
-  Troubleshooting: Assists in diagnosing connection issues.
-  
-  IP Management: Can influence IP address assignment in some networks.
+> Identification: Acts as a unique identifier for the device on networks.
 
-In conclusion, my week was largely dedicated to setting up and exploring Proton2. I anticipate that my familiarity with Arduino will be an asset as I dive deeper, even as I navigate the unique aspects of the Proton platform.
+> Security: Used in MAC filtering for network access control.
+> 
+> Troubleshooting: Assists in diagnosing connection issues.
+> 
+>  IP Management: Can influence IP address assignment in some networks.
 
 
 ## Reflection:
