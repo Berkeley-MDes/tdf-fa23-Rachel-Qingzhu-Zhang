@@ -17,6 +17,8 @@ With my background in Arduino, both in project creation and instruction, much of
 
 4. **Connectivity Options**: Proton2 could offer more advanced or varied connectivity options, supporting newer protocols or interfaces compared to some Arduino models.
 
+<img width="700" alt="macaddress" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/macaddress.png">
+
 For the first part, is the wifi configuration. I never came across this procedure in Arduino, so I am curious that, what does the MAC Address actually do and why we have to configure the wifi. Then I found its purpose:
   
 > Enables internet-based functions, software updates, remote access, and integration with other devices.
