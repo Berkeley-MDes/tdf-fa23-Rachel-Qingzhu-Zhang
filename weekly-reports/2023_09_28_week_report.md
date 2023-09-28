@@ -1,5 +1,9 @@
+# Report 5 - Week of 09/21/2023-09/28/2023 #
+### *Rachel Qingzhu Zhang* ###
 
-**Weekly Report**
+## Summary 
+
+my week was largely dedicated to setting up and exploring Proton2. I anticipate that my familiarity with Arduino will be an asset as I dive deeper, even as I navigate the unique aspects of the Proton platform.
 
 This week, I worked through Sudhu's tutorial and successfully set up the hardwire device, Proton2. In exploring its functionalities, I discovered several interesting features and capabilities of the device. The toolkit accompanying Proton2 is comprehensive, with a wide array of components and gadgets that I am eager to delve into further.
 
@@ -13,11 +17,18 @@ With my background in Arduino, both in project creation and instruction, much of
 
 4. **Connectivity Options**: Proton2 could offer more advanced or varied connectivity options, supporting newer protocols or interfaces compared to some Arduino models.
 
-In conclusion, my week was largely dedicated to setting up and exploring Proton2. I anticipate that my familiarity with Arduino will be an asset as I dive deeper, even as I navigate the unique aspects of the Proton platform.
+<img width="700" alt="macaddress" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/macaddress.png">
 
+For the first part, is the wifi configuration. I never came across this procedure in Arduino, so I am curious that, what does the MAC Address actually do and why we have to configure the wifi. Then I found its purpose:
+  
+> Enables internet-based functions, software updates, remote access, and integration with other devices.
+  
+  and the role of the MAC Address are:
+  
+> Identification: Acts as a unique identifier for the device on networks.
 
-## Reflection:
-
-Last week, I stepped in to help Junjie with some coding and circuit challenges. Using my Arduino experience, I showed her how to connect wires and explained the basics of circuit connections. We also spent some time debugging together. I'm glad I could assist, and it felt good to meet my own expectations. My background with Arduino definitely made things smoother. It's always rewarding to share knowledge and collaborate.
-
-Also, I appreciated Fareha's help this week. She guided me through the setup of proton 2 and clarified Wi-Fi configurations. This knowledge was helpful when we discussed IoT, giving us a clearer understanding of interconnected devices and their potential applications.
+> Security: Used in MAC filtering for network access control.
+> 
+> Troubleshooting: Assists in diagnosing connection issues.
+> 
+>  IP Management: Can influence IP address assignment in some networks.
