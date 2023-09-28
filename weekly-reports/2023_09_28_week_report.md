@@ -1,4 +1,4 @@
-Reflection:
+## Reflection:
 
 Last week, I stepped in to help Junjie with some coding and circuit challenges. Using my Arduino experience, I showed her how to connect wires and explained the basics of circuit connections. We also spent some time debugging together. I'm glad I could assist, and it felt good to meet my own expectations. My background with Arduino definitely made things smoother. It's always rewarding to share knowledge and collaborate.
 
