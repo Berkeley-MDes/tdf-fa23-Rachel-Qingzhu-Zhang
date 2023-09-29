@@ -3,7 +3,7 @@
 
 ## Summary 
 
-my week was largely dedicated to setting up and exploring Proton2. I anticipate that my familiarity with Arduino will be an asset as I dive deeper, even as I navigate the unique aspects of the Photon platform.
+my week was largely dedicated to setting up and exploring Photon2. I anticipate that my familiarity with Arduino will be an asset as I dive deeper, even as I navigate the unique aspects of the Photon platform.
 
 This week, I worked through Sudhu's tutorial and successfully set up the hardwire device, Photon2. In exploring its functionalities, I discovered several interesting features and capabilities of the device. The toolkit accompanying Proton2 is comprehensive, with a wide array of components and gadgets that I am eager to delve into further.
 
