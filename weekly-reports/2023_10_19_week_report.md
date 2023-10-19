@@ -7,7 +7,7 @@ The sensor provides six parameters: three axes for the accelerometer and three o
 
 <img width="600" alt="10.5-a" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/10.19-0.png">
 
-Creating music is a nuanced task. While it's relatively straightforward for a device to produce sound, crafting musical pieces requires a deeper understanding, especially to achieve harmony. Therefore, we explored basic music theory.
+Creating sound is not a difficult task. While creating music, especially to achieve harmony is more complicated, which requires a deeper understanding of music. Therefore, we explored basic music theory.
 
 <img width="600" alt="10.5-a" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/10.19-1.png">
 
