@@ -17,6 +17,9 @@ In melody creation, the fundamental elements are notes, chords, and scales. A no
 
 For music programming, we employed Max/MSP. Our primary function is to map each sensor value to the piano's range, which spans from 0 to 88. For instance, when working with the C Major scale, it's necessary to skip certain notes. Therefore, we performed a translation from our available notes to those within the C Major scale. This translation allows us to work with different scales, thereby enabling the creation of various musical styles.
 
+(Scale selecting patch in Max)
+<img width="600" alt="10.5-a" src="https://github.com/Berkeley-MDes/tdf-fa23-Rachel-Qingzhu-Zhang/blob/main/weekly-reports/10.19-4.png">
+
 The most challenging aspect involves transmitting data from the Photon to Max via Bluetooth. We opted for Bluetooth over Wi-Fi due to the latter's one-second delay. Using USB cables isn't a viable option while handling our pillow. The process of setting up Bluetooth proved more complex than anticipated. Thanks to Lingxiu's efforts, particularly in handling the technical aspects that involved numerous Python and terminal commands, we are now able to receive the data promptly.
 
 (Bluetooth connection patch in Max)
