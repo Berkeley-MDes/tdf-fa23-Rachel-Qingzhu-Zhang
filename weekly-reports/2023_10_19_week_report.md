@@ -1,7 +1,7 @@
 # Report 8 - Week of 10/12/2023-10/19/2023 #
 ## Rachel Qingzhu Zhang
 
-This week, we successfully completed our project! This project is exactly as CUTE as my project 1 (do you rememerber the kitten-head phonestand): a pillow with a fish shape! What is more, it can create music (very nintendo-ish 8-bit electro music)! we use the sensor ADHL362 for the interaction part
+This week, we successfully completed our project! This project is exactly as CUTE as my project 1 (do you rememerber the kitten-head phonestand?): a pillow with a fish shape! What is more, it can create music (very nintendo-ish 8-bit electro music)! we use the sensor ADHL362 for the interaction part
 
 The sensor provides six parameters: three axes for the accelerometer and three orientations (roll, pitch, and tilt) for the gyroscope. We utilize the accelerometer axes for rhythm generation, and the gyroscope's roll, pitch, and tilt for crafting melodies.
 
