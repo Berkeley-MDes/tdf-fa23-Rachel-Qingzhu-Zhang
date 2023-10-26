@@ -3,9 +3,12 @@
 # Speculations
 
 Our additional functions: here are some optional functions we came up before, we can add these functions in the future for more functional use:
-Button Change Scale/record/save/show Chord
-Incorporating a learning mode where participants can learn about musical concepts through interactive gameplay.
-Allowing users to record, save, and share their musical creations.
+
+- Button Change Scale/record/save/show Chord
+
+- Incorporating a learning mode where participants can learn about musical concepts through interactive gameplay.
+  
+- Allowing users to record, save, and share their musical creations.
 
 Enhanced Sensory Integration: While the current design uses tactile and auditory elements, future iterations could incorporate other senses. Imagine a pillow that changes temperature in sync with the music, or one that emits subtle fragrances based on the tunes played. By appealing to multiple senses simultaneously, the experience becomes even more immersive and therapeutic.
 
