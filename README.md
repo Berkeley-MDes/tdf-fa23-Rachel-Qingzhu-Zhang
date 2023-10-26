@@ -19,11 +19,11 @@ Environment-responsive Modules: Embedding environment sensors (like temperature,
 
 Integration into the Larger Musical Ecosystem: The pillow, as a musical creation tool, could easily integrate with digital audio workstations (DAWs) or music-sharing platforms. This would allow users to not only create music but also effortlessly record, edit, and share their creations with a wider audience, fostering a community of 'Musical Pillow' composers and enthusiasts.
 
-IV. Conclusion & Feedback
+# Conclusion & Feedback
 
 The 'Musical Pillow' project was more than a mere fusion of technology and music; it was a journey into redefining the boundaries of interactive design and pushing the envelope of what we perceive as play. In confronting and surmounting various challenges, from integrating intricate sensors to decoding the nuances of music theory, I gained invaluable insights into the symbiosis of design, technology, and human interaction. The project stands as a testament to the transformative power of innovation and the endless potential that awaits when we dare to reimagine the familiar. As I reflect on the endeavor, I'm reminded that in a rapidly evolving digital age, there remains an irreplaceable value in tactile experiences, genuine joy, and shared moments of creativity. The 'Musical Pillow' is not just a product—it's a vision of a future where technology enhances, rather than replaces, the simple joys of human connection.
 
-# Feedback
+## Feedback
 
 After reading the feedback, there are some parts that people value most:
 
@@ -42,7 +42,7 @@ And some aspects we should be aware of or to improve:
 - Safety concerns have been raised, particularly around waterproofing.
 - A need to consider a wider range of user scenarios for enhanced safety and experience.
 
-# Not just project 2
+## Not just project 2
 The skills and knowledge I've acquired have proven to be very valuable. I was able to incorporate some Max techniques along with digital music development elements into my Studio Foundation project, which involved creating a plant-synthesizer. This project was well-received, attracting the attention of many students and teachers who came to see it and take pictures. The digital tools significantly aided in expanding and applying what I had learned.
 
 I am thrilled that Gia Kirk and Christine Marcelino have shown their strong interest in our project, particularly wanting to understand the musical aspect and requesting to view my files. Gia even scheduled a meeting with me to learn about Max and Arduino, which made me feel like an instructor giving office hours.
