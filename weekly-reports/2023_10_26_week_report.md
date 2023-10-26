@@ -41,7 +41,7 @@ And some aspects we should be aware of or to improve:
 - Safety concerns have been raised, particularly around waterproofing.
 - A need to consider a wider range of user scenarios for enhanced safety and experience.
 
-Not just project 2
+# Not just project 2
 The skills and knowledge I've acquired have proven to be very valuable. I was able to incorporate some Max techniques along with digital music development elements into my Studio Foundation project, which involved creating a plant-synthesizer. This project was well-received, attracting the attention of many students and teachers who came to see it and take pictures. The digital tools significantly aided in expanding and applying what I had learned.
 
 I am thrilled that Gia Kirk and Christine Marcelino have shown their strong interest in our project, particularly wanting to understand the musical aspect and requesting to view my files. Gia even scheduled a meeting with me to learn about Max and Arduino, which made me feel like an instructor giving office hours.
