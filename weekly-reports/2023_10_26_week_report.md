@@ -1,6 +1,6 @@
 
 
-# Speculations
+# Speculations On Project 2
 
 Our additional functions: here are some optional functions we came up before, we can add these functions in the future for more functional use:
 
