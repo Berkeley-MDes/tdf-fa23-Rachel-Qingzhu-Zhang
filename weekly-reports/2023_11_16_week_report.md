@@ -1,7 +1,7 @@
 # Report 12 - Week of 11/09/2023-11/16/2023 #
 ## Rachel Qingzhu Zhang
 
-# Pitch On Project 4
+# Summary: Pitch On Project 4
 
 This week i presented two of my ideas on my final project. One is a more practical project: Digital Plate for Eating Disorders and Fitness, the other one is Prism: Wearable device for poly-music composition and visualization
 
@@ -34,3 +34,7 @@ So inspired by these concept, i came up a device for music collaboration and lig
 - Collaborative Creation: Prisms connect wirelessly for synchronized music and color generation, promoting teamwork.
 - Centralized Kaleidoscope Projection: A shared projection system aggregates inputs from multiple prisms, creating a large-scale kaleidoscopic light show in a communal space.
 - Interactive Multiplayer Games: Design games or challenges that require collaborative effort to achieve specific musical or visual goals.
+
+## Speculation
+Honestly, I am pretty proud about these ideas and really want to realize them. But the time could be limited for i only have less than 3 weeks, and they all have so many functions. So i am seeking advices through cohorts and instructors on the feasibility. I am particularly grateful for the support I've received from Adorey Shen. Although she is not a member of my team, her assistance has been crucial. Adorey offered solid help and suggestions on how to adjust my prototype and fine-tune its functions. Her expertise has provided a fresh perspective, helping me to identify areas for improvement and optimization that I hadn't previously considered.
+
