@@ -1,7 +1,7 @@
 # Report 12 - Week of 11/09/2023-11/16/2023 #
 ## Rachel Qingzhu Zhang
 
-# Summary: Pitch On Project 4
+### Summary: Pitch On Project 4
 
 This week i presented two of my ideas on my final project. One is a more practical project: Digital Plate for Eating Disorders and Fitness, the other one is Prism: Wearable device for poly-music composition and visualization
 
