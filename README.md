@@ -1,5 +1,5 @@
 
-# Report 14&15 - Week of 11/25/2023-12/05/2023 & 12/05-12/08#
+# Report 14&15 - Week of 11/25/2023-12/05/2023 & 12/05-12/08 #
 ## Rachel Qingzhu Zhang
 ### Summary
 This week I finished and showcased our project, **Alystama**
