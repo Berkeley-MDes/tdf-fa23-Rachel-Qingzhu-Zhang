@@ -6,8 +6,7 @@ This week I finished and showcased our project, **Alystama**
 
 “Alystama,” our prototype, is a Kazakh culture-inspired device designed to maintain emotional connections in long-distance
 relationships. It features traditional “tumar” patterns and utilizes buttons, NeoPixel LEDs for various light effects, and a haptic
-vibration motor to create distinctive vibration modes for responses. This functional prototype embodies the essence of being ‘no
-longer apart,’ merging tactile, visual, and cultural elements to foster a unique sense of closeness across distances.
+vibration motor to create distinctive vibration modes for responses. This functional prototype embodies the essence of being ‘**Don't drift apart**,’ merging tactile, visual, and cultural elements to foster a unique sense of closeness across distances.
 
 the detailed info are in our video link: https://www.youtube.com/watch?v=f8p8QGR5bmQ
 
