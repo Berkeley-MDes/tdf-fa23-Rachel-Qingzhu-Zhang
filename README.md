@@ -9,13 +9,13 @@ relationships. It features traditional “tumar” patterns and utilizes buttons
 vibration motor to create distinctive vibration modes for responses. This functional prototype embodies the essence of being ‘no
 longer apart,’ merging tactile, visual, and cultural elements to foster a unique sense of closeness across distances.
 
-the detailed info are in our video link:
-and my project report: 
+the detailed info are in our video link: https://www.youtube.com/watch?v=f8p8QGR5bmQ
+and my project report: https://docs.google.com/document/d/19r3ghCS2niy-01e1O4nRgogJXURsQ_aJVfTYlG7qZ_c/edit
 
-## Speculation: 
+### Speculation: 
 Working on this project has been a truly enjoyable experience for me, particularly those exhilarating moments when everything came together - the lights turned on, and the devices connected seamlessly. To be honest, the days leading up to the showcase involved a lot of late nights. Those sleepless hours spent in Jacobs Hall at Berkeley are moments I'll always cherish. The sense of happiness and accomplishment that came after overcoming numerous failures and setbacks was unparalleled.
 
-An interesting aspect of this journey was naming our project. Actually, it was me who chose the name of our project (in Kazakh), thanks to the cultural insights I gained from Baurzhan. The name, which translates to "Don’t Drift Apart," felt particularly fitting. Baurzhan opened a window for me into the rich tapestry of Kazakh culture, sharing his knowledge about their language, music, art, and social environment. This experience was enlightening; I learned so much and felt a deep sense of achievement and joy in acquiring this knowledge. Before my Master of Design Studies (MDes) program, I knew next to nothing about this fascinating land. To me, the most valuable aspect of this project has been this cultural exploration, something I could never have experienced working solo.
+An interesting aspect of this journey was naming our project. Actually, it was me who chose the name of our project (in Kazakh), thanks to the cultural insights I gained from Baurzhan. The name, which translates to "Don’t Drift Apart," felt particularly fitting. Baurzhan opened a window for me into the rich tapestry of Kazakh culture, sharing his knowledge about their language, music, art, and social environment. This experience was enlightening; I learned so much and felt a deep sense of achievement and joy in acquiring this knowledge. Before MDes program, I knew next to nothing about this fascinating land. To me, the most valuable aspect of this project has been this cultural exploration, something I could never have experienced working solo.
 
 **The semester ends with sense of happiness for best memories and sadness for being apart. I will miss our TDF crew guys: TJ, Sudhu, Jeff and Shm.
 I hope our project's concept will last long: Don't drift apart guys!**
