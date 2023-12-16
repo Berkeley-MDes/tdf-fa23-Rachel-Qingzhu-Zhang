@@ -10,6 +10,7 @@ vibration motor to create distinctive vibration modes for responses. This functi
 longer apart,’ merging tactile, visual, and cultural elements to foster a unique sense of closeness across distances.
 
 the detailed info are in our video link: https://www.youtube.com/watch?v=f8p8QGR5bmQ
+
 and my project report: https://docs.google.com/document/d/19r3ghCS2niy-01e1O4nRgogJXURsQ_aJVfTYlG7qZ_c/edit
 
 ### Speculation: 
