@@ -1,12 +1,21 @@
 
 # Report 14 - Week of 11/25/2023-12/05/2023 #
 ## Rachel Qingzhu Zhang
+
 ---
 # Report 13 - Week of 11/17/2023-11/24/2023 #
 ## Rachel Qingzhu Zhang
 ### Summary: Team up with Baurzhan Abenov and came up with the design demo prototype
 
-This week I decided to work with Baurzhan Abenov on the long-distance relationship communication device.
+This week, I teamed up with Baurzhan Abenov to develop a unique project: a communication device aimed at bridging the gap in long-distance relationships. I find this concept fascinating to be a perfect blend of romance and practicality. Baurzhan's vision, inspired by traditional Middle Asian culture, particularly captivated me with its unique blend of art and technology.
+
+Baurzhan introduced me to an exquisite aspect of Kazakh culture - the Tumar, a traditional form of Kazakh handcraft artwork. Its intricate designs and patterns reminded me of similar traditional Chinese motifs, creating a fascinating cultural connection.
+
+We mapped out our roles meticulously. Baurzhan would take the lead on the initial stages of the project: crafting early prototypes, engaging in detailed handcrafting, and handling the laser cutting processes. His focus would be on infusing our device with the aesthetic essence of Kazakh artistry. On my end, I'm diving into the technical aspects. This involves programming light effects and vibration patterns, which are key to the device's functionality. However, the core of my responsibility lies in developing the communication features - ensuring that our device not only looks good but also serves its purpose effectively.
+
+### Speculation
+Having divided our tasks, I began experimenting with the various sensors and gadgets in our kit. This exploration, spanning the Thanksgiving holiday, is more than just a project for me. It's a journey into the unknown, filled with learning and discovery. I'm eager to witness the culmination of our efforts. This collaboration has also been an enlightening experience, broadening my understanding of Kazakh culture and enriching my perspective.
+
 ---
 # Report 12 - Week of 11/09/2023-11/16/2023 #
 ## Rachel Qingzhu Zhang
