@@ -12,7 +12,7 @@ longer apart,’ merging tactile, visual, and cultural elements to foster a uniq
 the detailed info are in our video link:
 and my project report: 
 
-
+## Speculation: 
 Working on this project has been a truly enjoyable experience for me, particularly those exhilarating moments when everything came together - the lights turned on, and the devices connected seamlessly. To be honest, the days leading up to the showcase involved a lot of late nights. Those sleepless hours spent in Jacobs Hall at Berkeley are moments I'll always cherish. The sense of happiness and accomplishment that came after overcoming numerous failures and setbacks was unparalleled.
 
 An interesting aspect of this journey was naming our project. Actually, it was me who chose the name of our project (in Kazakh), thanks to the cultural insights I gained from Baurzhan. The name, which translates to "Don’t Drift Apart," felt particularly fitting. Baurzhan opened a window for me into the rich tapestry of Kazakh culture, sharing his knowledge about their language, music, art, and social environment. This experience was enlightening; I learned so much and felt a deep sense of achievement and joy in acquiring this knowledge. Before my Master of Design Studies (MDes) program, I knew next to nothing about this fascinating land. To me, the most valuable aspect of this project has been this cultural exploration, something I could never have experienced working solo.
