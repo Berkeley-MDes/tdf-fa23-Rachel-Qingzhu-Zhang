@@ -2,7 +2,7 @@
 # Report 14&15 - Week of 11/25/2023-12/05/2023 & 12/05-12/08#
 ## Rachel Qingzhu Zhang
 ### Summary
-This week I finished our project, Alystama
+This week I finished and showcased our project, **Alystama**
 
 “Alystama,” our prototype, is a Kazakh culture-inspired device designed to maintain emotional connections in long-distance
 relationships. It features traditional “tumar” patterns and utilizes buttons, NeoPixel LEDs for various light effects, and a haptic
