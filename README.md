@@ -13,6 +13,12 @@ the detailed info are in our video link: https://www.youtube.com/watch?v=f8p8QGR
 
 and my project report: https://docs.google.com/document/d/19r3ghCS2niy-01e1O4nRgogJXURsQ_aJVfTYlG7qZ_c/edit
 
+### Conclusion
+"Alystama," has been a rewarding venture combining coding, function development, and physical product creation. This culturally-inspired device, featuring traditional "tumar" patterns and modern technology like NeoPixel LEDs and haptic vibration motors, exemplifies the fusion of art and technology. Our journey was marked by significant challenges, from intricate soldering to complex coding for LED implementation. These experiences enriched our skills and deepened our understanding of the integration of technology and culture.
+
+Feedback post-showcase has been instrumental in refining our prototype, leading to enhancements in touch functionality, vibration intensities, and aesthetic appeal. "Alystama" stands as a testament to the potential of technology in enhancing human connections, blending emotional resonance with cultural significance. As we evolve "Alystama," it symbolizes the future of human-centered design, where technology is not just functional but also a conduit for cultural and emotional expression, bridging distances and hearts globally.
+
+
 ### Speculation: 
 Working on this project has been a truly enjoyable experience for me, particularly those exhilarating moments when everything came together - the lights turned on, and the devices connected seamlessly. To be honest, the days leading up to the showcase involved a lot of late nights. Those sleepless hours spent in Jacobs Hall at Berkeley are moments I'll always cherish. The sense of happiness and accomplishment that came after overcoming numerous failures and setbacks was unparalleled.
 
