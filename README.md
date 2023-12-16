@@ -1,3 +1,13 @@
+
+# Report 14 - Week of 11/25/2023-12/05/2023 #
+## Rachel Qingzhu Zhang
+---
+# Report 13 - Week of 11/17/2023-11/24/2023 #
+## Rachel Qingzhu Zhang
+### Summary: Team up with Baurzhan Abenov and came up with the design demo prototype
+
+This week I decided to work with Baurzhan Abenov on the long-distance relationship communication device.
+---
 # Report 12 - Week of 11/09/2023-11/16/2023 #
 ## Rachel Qingzhu Zhang
 
